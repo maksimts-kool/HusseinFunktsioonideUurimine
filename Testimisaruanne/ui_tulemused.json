@@ -1,0 +1,331 @@
+{
+  "404": {
+    "status": "page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://localhost:5080/Funktsioonid/Details/9999",
+    "tekst": "Страница localhost не найдена\n\nНе найдена страница для веб-адреса http://localhost:5080/Funktsioonid/Details/9999\n\nHTTP ERROR 404\nПерезагрузить"
+  },
+  "500": {
+    "status": 500,
+    "h1": "An unhandled exception occurred while processing the request."
+  },
+  "nimekiri_title": "Nimekiri · Funktsioonide uurimine",
+  "create_title": "Uus funktsioon · Funktsioonide uurimine",
+  "create_labels": [
+    "Ilus valem",
+    "Valem f(x)",
+    "Visuaalne valemiväli (x², murd, √)",
+    "Klaviatuur (▢², ▢ⁿ, numbrid)",
+    "Valem tekstina",
+    "x min",
+    "x max",
+    "samm"
+  ],
+  "create_required_marker": {
+    "required": false,
+    "ariaRequired": null,
+    "dataValRequired": "Valem on kohustuslik."
+  },
+  "mathlive_loaded": true,
+  "viga_vorm_vaartus": "2,5*x",
+  "viga_teade": "Valem sisaldab lubamatuid märke. Kasuta kümnendkohtade jaoks punkti, mitte koma.",
+  "enter_url": "http://localhost:5080/Funktsioonid/Details/31",
+  "teade_loomisel": "Funktsioon on analüüsitud ja salvestatud.",
+  "detail_title": "x^2 - 9 · Funktsioonide uurimine",
+  "legend_sildid": [
+    "f(x) = x² − 9",
+    "Lõikepunkt y-teljega",
+    "Miinimumid",
+    "Nullkohad"
+  ],
+  "teljed": {
+    "x": "x",
+    "y": "f(x)"
+  },
+  "tagasi_vigase_post_jarel": "VIGA: page.goBack: net::ERR_CACHE_MISS",
+  "tagasi_edasi_kirjeid": {
+    "enne": "30",
+    "parast": "30",
+    "tagasiUrl": "http://localhost:5080/Funktsioonid/Create"
+  },
+  "topeltklops_kirjeid": {
+    "enne": "30",
+    "parast": "31"
+  },
+  "muutmine_teade": "Muudatused on salvestatud.",
+  "muutmine_pealkiri": "f(x) = \n𝑥\n2\n−\n25\nx\n2\n−25",
+  "kustuta_h1": "Kustuta funktsioon?",
+  "kustuta_teade": "Funktsioon on kustutatud.",
+  "eelvaade_xx_viga": "Serveriga ei saanud ühendust.",
+  "tab_fookus": [
+    {
+      "el": "A.logo",
+      "tekst": "f(x) Funktsioonide uurimine",
+      "outline": "auto 1px rgb(0, 95, 204)"
+    },
+    {
+      "el": "INPUT",
+      "tekst": "on",
+      "outline": "solid 2px rgb(191, 219, 254)"
+    },
+    {
+      "el": "A",
+      "tekst": "Nimekiri",
+      "outline": "auto 1px rgb(0, 95, 204)"
+    },
+    {
+      "el": "A",
+      "tekst": "Uus",
+      "outline": "auto 1px rgb(0, 95, 204)"
+    },
+    {
+      "el": "A",
+      "tekst": "Teooria",
+      "outline": "auto 1px rgb(0, 95, 204)"
+    },
+    {
+      "el": "A.nupp esmane",
+      "tekst": "+ Uus funktsioon",
+      "outline": "auto 1px rgb(0, 95, 204)"
+    }
+  ],
+  "kontrast": {
+    "body": {
+      "varv": "rgb(31, 41, 55)",
+      "taust": "rgb(255, 255, 255)",
+      "suhe": 14.68
+    },
+    ".vaike": {
+      "varv": "rgb(107, 114, 128)",
+      "taust": "rgb(255, 255, 255)",
+      "suhe": 4.83
+    },
+    "header a": {
+      "varv": "rgb(31, 41, 55)",
+      "taust": "rgb(255, 255, 255)",
+      "suhe": 14.68
+    },
+    ".nupp.esmane": {
+      "varv": "rgb(255, 255, 255)",
+      "taust": "rgb(37, 99, 235)",
+      "suhe": 5.17
+    },
+    ".filter": {
+      "varv": "rgb(255, 255, 255)",
+      "taust": "rgb(37, 99, 235)",
+      "suhe": 5.17
+    },
+    "td": {
+      "varv": "rgb(31, 41, 55)",
+      "taust": "rgb(255, 255, 255)",
+      "suhe": 14.68
+    }
+  },
+  "laius_arvuti": {
+    "nimekiri": {
+      "scrollW": 1920,
+      "clientW": 1920
+    },
+    "detail": {
+      "scrollW": 1920,
+      "clientW": 1920
+    },
+    "loomine": {
+      "scrollW": 1920,
+      "clientW": 1920
+    },
+    "teooria": {
+      "scrollW": 1920,
+      "clientW": 1920
+    },
+    "nupud": [
+      18,
+      18,
+      18,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41
+    ]
+  },
+  "laius_tahvel": {
+    "nimekiri": {
+      "scrollW": 768,
+      "clientW": 768
+    },
+    "detail": {
+      "scrollW": 768,
+      "clientW": 768
+    },
+    "loomine": {
+      "scrollW": 768,
+      "clientW": 768
+    },
+    "teooria": {
+      "scrollW": 768,
+      "clientW": 768
+    },
+    "nupud": [
+      18,
+      18,
+      18,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41
+    ]
+  },
+  "laius_telefon": {
+    "nimekiri": {
+      "scrollW": 375,
+      "clientW": 375
+    },
+    "detail": {
+      "scrollW": 375,
+      "clientW": 375
+    },
+    "loomine": {
+      "scrollW": 375,
+      "clientW": 375
+    },
+    "teooria": {
+      "scrollW": 625,
+      "clientW": 375
+    },
+    "nupud": [
+      24,
+      24,
+      24,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41
+    ]
+  },
+  "laius_suum200": {
+    "nimekiri": {
+      "scrollW": 640,
+      "clientW": 640
+    },
+    "detail": {
+      "scrollW": 640,
+      "clientW": 640
+    },
+    "loomine": {
+      "scrollW": 640,
+      "clientW": 640
+    },
+    "teooria": {
+      "scrollW": 640,
+      "clientW": 640
+    },
+    "nupud": [
+      24,
+      24,
+      24,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41,
+      41
+    ]
+  },
+  "js_vead": []
+}
